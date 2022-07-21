@@ -1,3 +1,3 @@
 # Posicionamento
 
-do em https://ingridkriss.github.io/Posicionamento/Posicionamento.html
+https://ingridkriss.github.io/Posicionamento/posicionamento.html
